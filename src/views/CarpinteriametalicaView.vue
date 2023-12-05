@@ -87,15 +87,16 @@
                             <span class="visually-hidden">Next</span>
                         </button>
                     </div>
-                </div>
+                </div>   
                 <div class="col-md-5 col-sm-12 py-3 border-black border-end border-bottom border-top">
                     <h3 style="color: var(--main-green);" class="text-uppercase text-center">
-                        <strong>CARPINTERIA METALICA HOSPITAL UNIVERSITARIO</strong>
+                        <strong>DIVISIONES EN VIDRIO</strong>
                     </h3>
                     <hr>
                     <div class="d-flex align-content-center" style="height: 100%;">
-                        <p class="text-center" style="font-size: 1.7rem;"><br>Fabricación e instalación de carpintería metálica y 
-                            aluminio cumpliendo con estándares de calidad y/o sanidad requeridos por el cliente
+                        <p class="text-center" style="font-size: 1.7rem;"><br>Con nosotros podrá obtener un servicio completo, desde el diseño
+                             y fabricación de las divisiones en vidrio y aluminio hasta su instalación final, velando por la resistencia
+                              y durabilidad de las mismas.
                             <br>
                             <br>
                         <strong>Nivel nacional</strong></p>
@@ -119,35 +120,35 @@
                     </div>
                 </div>
                 <div class="col-md-5 col-sm-12">
-                    <div id="carouselExampleIndicators" class="carousel slide">
+                    <div id="carouselExampleIndicators2" class="carousel slide">
                         <div class="carousel-indicators">
-                            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0"
+                            <button type="button" data-bs-target="#carouselExampleIndicators2" data-bs-slide-to="0"
                                 class="active" aria-current="true" aria-label="Slide 1"></button>
-                            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1"
+                            <button type="button" data-bs-target="#carouselExampleIndicators2" data-bs-slide-to="1"
                                 aria-label="Slide 2"></button>
-                            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2"
+                            <button type="button" data-bs-target="#carouselExampleIndicators2" data-bs-slide-to="2"
                                 aria-label="Slide 3"></button>
                         </div>
                         <div class="carousel-inner">
                             <div class="carousel-item active">
-                                <img src="../assets/img/carpinteria/3/Divisiones1.1.jpg" class="d-block w-100"
+                                <img src="../assets/img/carpinteria/2/Ceramientos1.4.jpg" class="d-block w-100"
                                 alt="Slide 3">
                             </div>
                             <div class="carousel-item">
-                                <img src="../assets/img/carpinteria/3/Divisiones1.2.jpg" class="d-block w-100"
+                                <img src="../assets/img/carpinteria/2/Ceramientos1.2.jpg" class="d-block w-100"
                                 alt="Slide 2">
                             </div>
                             <div class="carousel-item">
-                                <img src="../assets/img/carpinteria/3/Divisiones1.3.jpg" class="d-block w-100"
+                                <img src="../assets/img/carpinteria/2/Ceramientos1.1.jpg" class="d-block w-100"
                                 alt="Slide 1">
                             </div>
                         </div>
-                        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators"
+                        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators2"
                             data-bs-slide="prev">
                             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                             <span class="visually-hidden">Previous</span>
                         </button>
-                        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators"
+                        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators2"
                             data-bs-slide="next">
                             <span class="carousel-control-next-icon" aria-hidden="true"></span>
                             <span class="visually-hidden">Next</span>
@@ -173,35 +174,40 @@
                         </div>
                         <div class="carousel-inner">
                             <div class="carousel-item active">
-                                <div class="carousel-item active">
-                                    <img src="../assets/img/carpinteria/4/Pasamanos1.3.jpg" class="d-block w-100" alt="...">
-                                </div>
-                                <img src="../assets/img/carpinteria/4/Pasamanos1.2.jpg" class="d-block w-100" alt="...">
+                                <img src="../assets/img/carpinteria/4/Pasamanos1.3.jpg" class="d-block w-100"
+                                alt="Slide 3">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="../assets/img/carpinteria/4/Pasamanos1.2.jpg" class="d-block w-100"
+                                alt="Slide 2">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="../assets/img/carpinteria/4/Pasamanos1.1.jpg" class="d-block w-100"
+                                alt="Slide 1">
                             </div>
                         </div>
-
-                        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators"
+                        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators3"
                             data-bs-slide="prev">
                             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                             <span class="visually-hidden">Previous</span>
                         </button>
-                        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators"
+                        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators3"
                             data-bs-slide="next">
                             <span class="carousel-control-next-icon" aria-hidden="true"></span>
                             <span class="visually-hidden">Next</span>
                         </button>
-
                     </div>
                 </div>
                 <div class="col-md-5 col-sm-12 py-3 border-black border-end border-bottom border-top">
                     <h3 style="color: var(--main-green);" class="text-uppercase text-center">
-                        <strong>DIVISIONES EN VIDRIO</strong>
+                        <strong>PASAMANOS Y BARANDAS</strong>
                     </h3>
                     <hr>
                     <div class="d-flex align-content-center" style="height: 100%;">
-                        <p class="text-center" style="font-size: 1.7rem;"><br>Con nosotros podrá obtener un servicio completo, desde el diseño
-                             y fabricación de las divisiones en vidrio y aluminio hasta su instalación final, velando por la resistencia
-                              y durabilidad de las mismas.
+                        <p class="text-center" style="font-size: 1.7rem;"><br>En INGSOLPRO contamos con equipos para todo tipo
+                             de instalaciones: Apartamentos, hogares, empresas y pymes.
+                            Los pasamanos no solo son un elemento que se ve bien en una construcción, son un elemento de seguridad para proteger a las personas
+                             de sufrir lesiones especialmente por caídas en espacios húmedos y gradas.
                               <br>
                               <br>
                             <strong>Nivel Nacional</strong>
@@ -213,14 +219,12 @@
             <div class="proyecto bg-white row justify-content-center" style="overflow: hidden;">
                 <div class="col-md-5 col-sm-12 py-3 border-black border-start border-bottom border-top">
                     <h3 style="color: var(--main-green);" class="text-uppercase text-center">
-                        <strong>PASAMANOS Y BARANDAS</strong>
+                        <strong>CARPINTERIA METALICA HOSPITAL UNIVERSITARIO</strong>
                     </h3>
                     <hr>
                     <div class="d-flex align-content-center" style="height: 100%;">
-                        <p class="text-center" style="font-size: 1.7rem;">En INGSOLPRO contamos con equipos para todo tipo
-                             de instalaciones: Apartamentos, hogares, empresas y pymes.
-                            Los pasamanos no solo son un elemento que se ve bien en una construcción, son un elemento de seguridad para proteger a las personas
-                             de sufrir lesiones especialmente por caídas en espacios húmedos y gradas.
+                        <p class="text-center" style="font-size: 1.7rem;">Fabricación e instalación de carpintería metálica y 
+                            aluminio cumpliendo con estándares de calidad y/o sanidad requeridos por el cliente.
                              <br>
                              <br>
                              <strong>Nivel Nacional</strong>
@@ -239,21 +243,28 @@
                         </div>
                         <div class="carousel-inner">
                             <div class="carousel-item active">
+                                <img src="../assets/img/carpinteria/1/CarpineteriaMetalica1.1.jpg" class="d-block w-100"
+                                alt="Slide 3">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="../assets/img/carpinteria/1/CarpineteriaMetalica1.2.jpg" class="d-block w-100"
+                                alt="Slide 2">
+                            </div>
+                            <div class="carousel-item">
                                 <img src="../assets/img/carpinteria/1/CarpineteriaMetalica1.3.jpg" class="d-block w-100"
-                                    alt="...">
+                                alt="Slide 1">
                             </div>
                         </div>
-                        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators"
+                        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators4"
                             data-bs-slide="prev">
                             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                             <span class="visually-hidden">Previous</span>
                         </button>
-                        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators"
+                        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators4"
                             data-bs-slide="next">
                             <span class="carousel-control-next-icon" aria-hidden="true"></span>
                             <span class="visually-hidden">Next</span>
                         </button>
-
                     </div>
 
                 </div>

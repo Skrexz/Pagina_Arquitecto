@@ -48,7 +48,40 @@
 
             <div class="proyecto bg-white row justify-content-center" style="overflow: hidden;">
                 <div class="col-md-5 col-sm-12">
-                    <img src="../assets/img/mantenimientos/2/mantenimiento2.1.png" class="w-100" alt="">
+                    <div id="carouselExampleIndicators" class="carousel slide">
+                        <div class="carousel-indicators">
+                            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0"
+                                class="active" aria-current="true" aria-label="Slide 1"></button>
+                            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1"
+                                aria-label="Slide 2"></button>
+                            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2"
+                                aria-label="Slide 3"></button>
+                        </div>
+                        <div class="carousel-inner">
+                            <div class="carousel-item active">
+                                <img src="../assets/img/mantenimientos/2/mantenimiento2.1.png" class="d-block w-100"
+                                alt="Slide 3">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="../assets/img/mantenimientos/2/mantenimiento2.2.png" class="d-block w-100"
+                                alt="Slide 2">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="../assets/img/mantenimientos/2/mantenimiento2.3.png" class="d-block w-100"
+                                alt="Slide 1">
+                            </div>
+                        </div>
+                        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators"
+                            data-bs-slide="prev">
+                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                            <span class="visually-hidden">Previous</span>
+                        </button>
+                        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators"
+                            data-bs-slide="next">
+                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                            <span class="visually-hidden">Next</span>
+                        </button>
+                    </div>
                 </div>
                 <div class="col-md-5 col-sm-12 py-3 border-black border-end border-bottom border-top">
                     <h3 style="color: var(--main-green);" class="text-uppercase text-center">
@@ -84,7 +117,40 @@
                     </div>
                 </div>
                 <div class="col-md-5 col-sm-12">
-                    <img src="../assets/img/mantenimientos/1/mantenimiento1.1.jpeg" class="w-100" alt="">
+                    <div id="carouselExampleIndicators2" class="carousel slide">
+                        <div class="carousel-indicators">
+                            <button type="button" data-bs-target="#carouselExampleIndicators2" data-bs-slide-to="0"
+                                class="active" aria-current="true" aria-label="Slide 1"></button>
+                            <button type="button" data-bs-target="#carouselExampleIndicators2" data-bs-slide-to="1"
+                                aria-label="Slide 2"></button>
+                            <button type="button" data-bs-target="#carouselExampleIndicators2" data-bs-slide-to="2"
+                                aria-label="Slide 3"></button>
+                        </div>
+                        <div class="carousel-inner">
+                            <div class="carousel-item active">
+                                <img src="../assets/img/mantenimientos/1/mantenimiento1.1.jpeg" class="d-block w-100"
+                                alt="Slide 3">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="../assets/img/mantenimientos/1/mantenimiento1.2.jpg" class="d-block w-100"
+                                alt="Slide 2">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="../assets/img/mantenimientos/1/mantenimiento1.3.jpeg" class="d-block w-100"
+                                alt="Slide 1">
+                            </div>
+                        </div>
+                        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators2"
+                            data-bs-slide="prev">
+                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                            <span class="visually-hidden">Previous</span>
+                        </button>
+                        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators2"
+                            data-bs-slide="next">
+                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                            <span class="visually-hidden">Next</span>
+                        </button>
+                    </div>
                 </div>
             </div>
             <div class="space-bar"></div>
