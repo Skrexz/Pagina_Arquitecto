@@ -106,6 +106,15 @@
             </button>
           </div>
 
+          <div class="project-image-box m-3 p-0">
+            <!--Imagen por encima del vídeo-->
+            <div class="caja-animacion"></div>
+            <h2 class="w-100 text-center">Carpinteria metalica</h2>
+            <img class="top-image" src="../../src/assets/img/carpinteria/3/Divisiones1.1.jpg" alt="Fachadas arquitectonicas">
+            <button class="py-1 px-3 border border-white text-uppercase">
+              <a href="/carpinteria">Ver más</a>
+            </button>
+          </div>
         </div>
 
       </div>
@@ -186,6 +195,12 @@ const serviciosMediaData = [
     imagen: "../assets/img/estructura/5/1.jpg",
     alt: 'Texto alternativo',
     texto: 'Estudios y diseños',
+  },
+
+  {
+    imagen: "../assets/img/carpinteria/3/Divisiones1.1.jpg",
+    alt: 'Texto alternativo',
+    texto: 'Carpinteria Metalica',
   }
 
 ]
