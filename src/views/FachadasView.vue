@@ -4,11 +4,10 @@
     </div>
 
     <div class="banner">
-        <div class="info d-flex align-items-center p-1">
-            <p class="text-center text-white">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque atque ad quos quibusdam odio rerum accusamus
-                consequuntur
-                modi, ut vel mollitia voluptatem dolores vero, delectus minima praesentium quia illo quo.
+        <div class="info d-flex align-items-center p-4">
+            <p class="text-center text-white" style="font-size: 2rem;">
+                una fachada arquitectónica es la cara visible de un edificio, diseñada con consideraciones estéticas
+                 y funcionales para expresar la identidad del edificio y proporcionar protección y eficiencia energética.
             </p>
         </div>
     </div>
@@ -16,13 +15,13 @@
     <div class="row mt-3">
         <div class="col-md-4 col-sm-12 py-3 d-flex flex-column justify-content-center">
             <h2 class="text-center ">Estética Atractiva</h2>
-            <p class="text-center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta ipsam quaerat totam
-                tempora sint quas soluta nihil libero, sit consequuntur.</p>
+            <p class="text-center">Las fachadas arquitectónicas desempeñan un papel fundamental al brindar una estética atractiva y visualmente impactante a las estructuras.
+                 Contribuyen significativamente al aspecto general de un edificio, mejorando su presencia en el entorno circundante y creando una primera impresión positiva.</p>
                 <br>
                 <br>
-                <h2 class="text-center ">Mantenimiento relativamente bajo</h2>
-            <p class="text-center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta ipsam quaerat totam
-                tempora sint quas soluta nihil libero, sit consequuntur.</p>
+                <h2 class="text-center ">Protección y Durabilidad</h2>
+            <p class="text-center">Una función clave de las fachadas es proporcionar protección contra los elementos climáticos. Construidas con materiales resistentes,
+                 contribuyen a la durabilidad del edificio al resistir condiciones climáticas adversas como lluvia, viento, y la radiación solar.</p>
                 
                 
         </div>
@@ -30,14 +29,17 @@
             <img src="../assets/img/LogoSubtitulos.png" alt="" class="w-100">
         </div>
         <div class="col-md-4 col-sm-12 py-3 d-flex flex-column justify-content-center">
-            <h2 class="text-center ">Resistencia y durabilidad</h2>
-            <p class="text-center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta ipsam quaerat totam
-                tempora sint quas soluta nihil libero, sit consequuntur.</p>
+            <h2 class="text-center ">Valor Comercial</h2>
+            <p class="text-center">Las fachadas que logran un diseño atractivo y funcional pueden aumentar
+                 la atractividad comercial del edificio. Esto no solo mejora la experiencia de los ocupantes
+                 sino que también puede traducirse en un aumento del valor inmobiliario, haciendo que la propiedad
+                  sea más atractiva para inversores y compradores.</p>
                 <br>
                 <br>
-                <h2 class="text-center ">Resistencia y durabilidad</h2>
-            <p class="text-center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta ipsam quaerat totam
-                tempora sint quas soluta nihil libero, sit consequuntur.</p>
+                <h2 class="text-center ">Identidad y Singularidad</h2>
+            <p class="text-center">Cada edificio tiene su propia identidad arquitectónica, y las fachadas juegan un 
+                papel crucial en expresar esa identidad. Contribuyen a la singularidad del edificio, destacando su estilo específico
+                 y su propósito arquitectónico único.</p>
         </div>
     </div>
     <div class="space-barXD"></div> 

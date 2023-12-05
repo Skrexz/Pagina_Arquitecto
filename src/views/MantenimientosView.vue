@@ -4,30 +4,35 @@
     </div>
 
     <div class="banner">
-        <div class="info d-flex align-items-center p-1">
-            <p class="text-center text-white">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque atque ad quos quibusdam odio rerum accusamus
-                consequuntur
-                modi, ut vel mollitia voluptatem dolores vero, delectus minima praesentium quia illo quo.
+        <div class="info d-flex align-items-center p-4">
+            <p class="text-center text-white" style="font-size: 2rem;">
+                El propósito principal del mantenimiento es garantizar que los activos se encuentren
+                 en condiciones óptimas de operación, minimizando posibles fallas, prolongando su vida
+                  útil y contribuyendo a la eficiencia y seguridad de los procesos o sistemas en los que están involucrados.
             </p>
         </div>
     </div>
 
     <div class="row mt-3">
         <div class="col-md-4 col-sm-12 py-3 d-flex flex-column justify-content-center">
-            <h2 class="text-center ">Mantenimiento
-                relativamente bajo
-            </h2>
-            <p class="text-center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta ipsam quaerat totam
-                tempora sint quas soluta nihil libero, sit consequuntur.</p>
+            <h2 class="text-center ">Mayor Durabilidad</h2>
+            <p class="text-center">Un programa de mantenimiento industrial regular puede prolongar
+                 la vida útil de los equipos y maquinaria, reduciendo la necesidad de reemplazos frecuentes.</p>
+                <br>
+                <br>
+                <h2 class="text-center ">Optimización del Rendimiento</h2>
+            <p class="text-center">El mantenimiento industrial optimiza el rendimiento de los equipos, asegurando su funcionamiento eficiente y evitando la pérdida de productividad.</p>
         </div>
         <div class="col-md-4 col-sm-12" style="background: var(--main-green);">
             <img src="../assets/img/LogoSubtitulos.png" alt="" class="w-100">
         </div>
         <div class="col-md-4 col-sm-12 py-3 d-flex flex-column justify-content-center">
-            <h2 class="text-center ">Resistencia y durabilidad</h2>
-            <p class="text-center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta ipsam quaerat totam
-                tempora sint quas soluta nihil libero, sit consequuntur.</p>
+            <h2 class="text-center ">Preservación Estética</h2>
+            <p class="text-center">El mantenimiento de fachadas garantiza la preservación de la apariencia estética del edificio, creando una impresión positiva.</p>
+                <br>
+                <br>
+                <h2 class="text-center ">Longevidad de Materiales</h2>
+            <p class="text-center">El mantenimiento ayuda a prolongar la vida útil de los materiales de la fachada, evitando la degradación prematura.</p>
         </div>
     </div>
     <div class="space-barXD"></div>
@@ -47,16 +52,17 @@
                 </div>
                 <div class="col-md-5 col-sm-12 py-3 border-black border-end border-bottom border-top">
                     <h3 style="color: var(--main-green);" class="text-uppercase text-center">
-                        MANTENIMIENTO INDUSTRIAL
+                        <strong>MANTENIMIENTO INDUSTRIAL</strong>
                     </h3>
                     <hr>
                     <div class="d-flex align-content-center" style="height: 100%;">
-                        <p class="text-center" style="font-size: 1.3rem;">Lorem ipsum, dolor sit amet consectetur
-                            adipisicing elit. Sapiente voluptatem
-                            illum, atque soluta similique eligendi suscipit quod laboriosam ipsam magnam, aut earum magni
-                            architecto dolor repudiandae corporis molestias quae quisquam voluptates voluptatum. Unde
-                            architecto iste blanditiis qui. Natus impedit consequuntur vel consequatur sit quidem? Velit
-                            officia facilis iste illo officiis.</p>
+                        <p class="text-center" style="font-size: 1.7rem;">Prestamos el servicio de actividades preventivas
+                             y correctivas como inspecciones regulares, reparaciones, limpieza , adecuaciónes y cualquier 
+                             tarea necesaria para garantizar el funcionamiento eficiente y seguro de toda los componentes de infraestructura de la planta.
+                             <br>
+                             <br>
+                             <strong>Nivel Nacional</strong>
+                            </p>
                     </div>
                 </div>
             </div>
@@ -65,7 +71,7 @@
             <div class="proyecto bg-white row justify-content-center" style="overflow: hidden;">
                 <div class="col-md-5 col-sm-12 py-3 border-black border-start border-bottom border-top">
                     <h3 style="color: var(--main-green);" class="text-uppercase text-center">
-                        MANTENIMIENTO DE FACHADA
+                        <strong>MANTENIMIENTO DE FACHADA</strong>
                     </h3>
                     <hr>
                     <div class="d-flex align-content-center " style="height: 100%;">
@@ -74,7 +80,7 @@
                             limpieza y preservación
                             <br>
                             <br>
-                            Nivel nacional</p>
+                            <strong>Nivel nacional</strong></p>
                     </div>
                 </div>
                 <div class="col-md-5 col-sm-12">

@@ -4,30 +4,38 @@
     </div>
 
     <div class="banner">
-        <div class="info d-flex align-items-center p-1">
-            <p class="text-center text-white">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque atque ad quos quibusdam odio rerum accusamus
-                consequuntur
-                modi, ut vel mollitia voluptatem dolores vero, delectus minima praesentium quia illo quo.
+        <div class="info d-flex align-items-center p-4">
+            <p class="text-center text-white" style="font-size: 1.7rem;">
+                La carpintería metálica se refiere al conjunto de procesos y técnicas utilizados en la fabricación,
+                 diseño y construcción de elementos estructurales y decorativos utilizando materiales metálicos.
             </p>
         </div>
     </div>
 
     <div class="row mt-3">
         <div class="col-md-4 col-sm-12 py-3 d-flex flex-column justify-content-center">
-            <h2 class="text-center ">Mantenimiento
-                relativamente bajo
-            </h2>
-            <p class="text-center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta ipsam quaerat totam
-                tempora sint quas soluta nihil libero, sit consequuntur.</p>
+            <h2 class="text-center ">Durabilidad y Resistencia</h2>
+            <p class="text-center">La carpintería metálica proporciona estructuras y elementos
+                 duraderos y resistentes, lo que es crucial para entornos hospitalarios de alto tráfico y uso constante.</p>
+                <br>
+                <br>
+                <h2 class="text-center ">Facilidad de Mantenimiento</h2>
+            <p class="text-center">Los elementos de carpintería metálica son generalmente fáciles de mantener
+                 y limpiar, contribuyendo a mantener altos estándares de higiene en entornos hospitalarios.</p>
         </div>
         <div class="col-md-4 col-sm-12" style="background: var(--main-green);">
             <img src="../assets/img/LogoSubtitulos.png" alt="" class="w-100">
         </div>
         <div class="col-md-4 col-sm-12 py-3 d-flex flex-column justify-content-center">
-            <h2 class="text-center ">Resistencia y durabilidad</h2>
-            <p class="text-center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta ipsam quaerat totam
-                tempora sint quas soluta nihil libero, sit consequuntur.</p>
+            <h2 class="text-center ">Resistencia a la Corrosión</h2>
+            <p class="text-center">Muchos metales utilizados en carpintería metálica tienen propiedades inherentemente
+                 resistentes a la corrosión, lo que es beneficioso en entornos hospitalarios que pueden involucrar exposición
+                  a líquidos y agentes corrosivos.</p>
+                <br>
+                <br>
+                <h2 class="text-center ">Rapidez en la Instalación</h2>
+            <p class="text-center">La fabricación y la instalación de elementos de carpintería metálica pueden ser más rápidas
+                 en comparación con algunos materiales más tradicionales, lo que puede ser crucial en proyectos hospitalarios con plazos ajustados.</p>
         </div>
     </div>
 
@@ -82,7 +90,7 @@
                 </div>
                 <div class="col-md-5 col-sm-12 py-3 border-black border-end border-bottom border-top">
                     <h3 style="color: var(--main-green);" class="text-uppercase text-center">
-                        CARPINTERIA METALICA HOSPITAL UNIVERSITARIO
+                        <strong>CARPINTERIA METALICA HOSPITAL UNIVERSITARIO</strong>
                     </h3>
                     <hr>
                     <div class="d-flex align-content-center" style="height: 100%;">
@@ -90,7 +98,7 @@
                             aluminio cumpliendo con estándares de calidad y/o sanidad requeridos por el cliente
                             <br>
                             <br>
-                            Nivel nacional</p>
+                        <strong>Nivel nacional</strong></p>
                     </div>
                 </div>
             </div>
@@ -99,7 +107,7 @@
             <div class="proyecto bg-white row justify-content-center" style="overflow: hidden;">
                 <div class="col-md-5 col-sm-12 py-3 border-black border-start border-bottom border-top">
                     <h3 style="color: var(--main-green);" class="text-uppercase text-center">
-                        CERRAMIENTOS
+                        <strong>CERRAMIENTOS</strong>
                     </h3>
                     <hr>
                     <div class="d-flex align-content-center" style="height: 100%;">
@@ -107,7 +115,7 @@
                              a medida cumpliendo los requisitos de estabilidad y durabilidad exigidos.
                              <br>
                              <br>
-                            Nivel nacional.</p>
+                            <strong>Nivel nacional</strong></p>
                     </div>
                 </div>
                 <div class="col-md-5 col-sm-12">
@@ -187,7 +195,7 @@
                 </div>
                 <div class="col-md-5 col-sm-12 py-3 border-black border-end border-bottom border-top">
                     <h3 style="color: var(--main-green);" class="text-uppercase text-center">
-                        DIVISIONES EN VIDRIO
+                        <strong>DIVISIONES EN VIDRIO</strong>
                     </h3>
                     <hr>
                     <div class="d-flex align-content-center" style="height: 100%;">
@@ -196,7 +204,8 @@
                               y durabilidad de las mismas.
                               <br>
                               <br>
-                            Nivel Nacional.</p>
+                            <strong>Nivel Nacional</strong>
+                        </p>
                     </div>
                 </div>
             </div>
@@ -204,7 +213,7 @@
             <div class="proyecto bg-white row justify-content-center" style="overflow: hidden;">
                 <div class="col-md-5 col-sm-12 py-3 border-black border-start border-bottom border-top">
                     <h3 style="color: var(--main-green);" class="text-uppercase text-center">
-                        PASAMANOS Y BARANDAS
+                        <strong>PASAMANOS Y BARANDAS</strong>
                     </h3>
                     <hr>
                     <div class="d-flex align-content-center" style="height: 100%;">
@@ -212,6 +221,9 @@
                              de instalaciones: Apartamentos, hogares, empresas y pymes.
                             Los pasamanos no solo son un elemento que se ve bien en una construcción, son un elemento de seguridad para proteger a las personas
                              de sufrir lesiones especialmente por caídas en espacios húmedos y gradas.
+                             <br>
+                             <br>
+                             <strong>Nivel Nacional</strong>
                             </p>
                     </div>
                 </div>

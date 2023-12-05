@@ -4,30 +4,35 @@
     </div>
 
     <div class="banner">
-        <div class="info d-flex align-items-center p-1">
-            <p class="text-center text-white">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque atque ad quos quibusdam odio rerum accusamus
-                consequuntur
-                modi, ut vel mollitia voluptatem dolores vero, delectus minima praesentium quia illo quo.
+        <div class="info d-flex align-items-center p-4">
+            <p class="text-center text-white" style="font-size: 1.7rem;">
+                En el ámbito de la arquitectura, la palabra "estudio" alude 
+                al proceso educativo y de obtención de conocimientos, mientras que el
+                 "diseño" representa la aplicación creativa de esos conocimientos para idear y organizar espacios arquitectónicos.
             </p>
         </div>
     </div>
 
     <div class="row mt-3">
         <div class="col-md-4 col-sm-12 py-3 d-flex flex-column justify-content-center">
-            <h2 class="text-center ">Mantenimiento
-                relativamente bajo
-            </h2>
-            <p class="text-center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta ipsam quaerat totam
-                tempora sint quas soluta nihil libero, sit consequuntur.</p>
+            <h2 class="text-center ">Innovación y Tecnología</h2>
+            <p class="text-center">El diseño impulsa la innovación al incorporar nuevas
+                 tecnologías y enfoques, manteniendo los productos y servicios actualizados.</p>
+                <br>
+                <br>
+                <h2 class="text-center ">Eficiencia y Funcionalidad</h2>
+            <p class="text-center">El diseño eficiente busca optimizar la funcionalidad de los productos o entornos, mejorando su rendimiento y utilidad..</p>
         </div>
         <div class="col-md-4 col-sm-12" style="background: var(--main-green);">
             <img src="../assets/img/LogoSubtitulos.png" alt="" class="w-100">
         </div>
         <div class="col-md-4 col-sm-12 py-3 d-flex flex-column justify-content-center">
-            <h2 class="text-center ">Resistencia y durabilidad</h2>
-            <p class="text-center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta ipsam quaerat totam
-                tempora sint quas soluta nihil libero, sit consequuntur.</p>
+            <h2 class="text-center ">Comprensión del Diseño Espacial</h2>
+            <p class="text-center">Proporciona una comprensión profunda de la creación y manipulación del espacio, esencial para la planificación y diseño arquitectónico.</p>
+                <br>
+                <br>
+                <h2 class="text-center ">Resolución de Problemas Complejos</h2>
+            <p class="text-center">El estudio en arquitectura implica enfrentar problemas complejos y desafíos de diseño, desarrollando habilidades de resolución de problemas.</p>
         </div>
     </div>
 
@@ -46,7 +51,7 @@
                 </div>
                 <div class="col-md-5 col-sm-12 py-3 border-black border-end border-bottom border-top">
                     <h3 style="color: var(--main-green);" class="text-uppercase text-center">
-                        ESTUDIO
+                        <strong>ESTUDIO</strong>
                     </h3>
                     <hr>
                     <div class="d-flex align-content-center" style="height: 100%;">
@@ -55,8 +60,8 @@
                             diseño arquitectónico, diseño estructural, diseño hidráulico y diseño eléctrico.
                             <br>
                              <br>
-                             Nuestros servicios están disponibles 
-                             a nivel nacional.</p>
+                             <strong>Nuestros servicios están disponibles 
+                             a nivel nacional.</strong></p>
                     </div>
                 </div>
             </div>
@@ -65,7 +70,7 @@
             <div class="proyecto bg-white row justify-content-center" style="overflow: hidden;">
                 <div class="col-md-5 col-sm-12 py-3 border-black border-start border-bottom border-top">
                     <h3 style="color: var(--main-green);" class="text-uppercase text-center">
-                        DISEÑO
+                        <strong>DISEÑO</strong>
                     </h3>
                     <hr>
                     <div class="d-flex align-content-center" style="height: 100%;">
@@ -73,8 +78,8 @@
                             disciplinas del diseño y desarrollo de proyectos de construcción, incluyendo topografía, análisis de suelos,
                              diseño arquitectónico, diseño estructural, diseño hidráulico y diseño eléctrico. <br>
                              <br>
-                             Nuestros servicios están disponibles 
-                             a nivel nacional.</p>
+                             <strong>Nuestros servicios están disponibles 
+                             a nivel nacional.</strong></p>
                     </div>
                 </div>
                 <div class="col-md-5 col-sm-12">

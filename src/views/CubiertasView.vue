@@ -4,30 +4,39 @@
     </div>
 
     <div class="banner">
-        <div class="info d-flex align-items-center p-1">
-            <p class="text-center text-white">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque atque ad quos quibusdam odio rerum accusamus
-                consequuntur
-                modi, ut vel mollitia voluptatem dolores vero, delectus minima praesentium quia illo quo.
+        <div class="info d-flex align-items-center p-4">
+            <p class="text-center text-white" style="font-size: 2rem;">
+                Este componente arquitectónico no solo cumple con la función práctica de resguardar 
+                contra la lluvia, el viento y el sol, sino que también desempeña un papel estético crucial 
+                en el diseño global del edificio.
             </p>
         </div>
     </div>
 
     <div class="row mt-3">
         <div class="col-md-4 col-sm-12 py-3 d-flex flex-column justify-content-center">
-            <h2 class="text-center ">Mantenimiento
-                relativamente bajo
-            </h2>
-            <p class="text-center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta ipsam quaerat totam
-                tempora sint quas soluta nihil libero, sit consequuntur.</p>
+            <h2 class="text-center ">Protección contra Elementos Climáticos</h2>
+            <p class="text-center">Las cubiertas proporcionan protección contra la lluvia, la nieve, el viento y otros elementos climáticos,
+                 manteniendo el interior del edificio a salvo de las inclemencias del tiempo.</p>
+                <br>
+                <br>
+                <h2 class="text-center ">Ahorro de Energía</h2>
+            <p class="text-center">Al proporcionar sombra y regulación térmica, las cubiertas
+                 pueden reducir la carga en los sistemas de climatización, lo que resulta en un ahorro de energía
+                  a lo largo del tiempo.</p>
         </div>
         <div class="col-md-4 col-sm-12" style="background: var(--main-green);">
             <img src="../assets/img/LogoSubtitulos.png" alt="" class="w-100">
         </div>
         <div class="col-md-4 col-sm-12 py-3 d-flex flex-column justify-content-center">
-            <h2 class="text-center ">Resistencia y durabilidad</h2>
-            <p class="text-center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta ipsam quaerat totam
-                tempora sint quas soluta nihil libero, sit consequuntur.</p>
+            <h2 class="text-center ">Aislamiento Térmico</h2>
+            <p class="text-center">Las cubiertas bien diseñadas con materiales aislantes ayudan a regular la temperatura
+                 interna del edificio, mejorando la eficiencia energética y reduciendo la dependencia de sistemas de calefacción o refrigeración.</p>
+                <br>
+                <br>
+                <h2 class="text-center ">Prevención de Infiltraciones</h2>
+            <p class="text-center">Una cubierta adecuadamente instalada y mantenida evita las infiltraciones de agua,
+                 protegiendo la integridad de la estructura y previniendo problemas como filtraciones y humedades.</p>
         </div>
     </div>
 
@@ -46,7 +55,7 @@
                 </div>
                 <div class="col-md-5 col-sm-12 py-3 border-black border-end border-bottom border-top">
                     <h3 style="color: var(--main-green);" class="text-uppercase text-center">
-                        Cubierta autoportante
+                        <strong>Cubierta autoportante</strong>
                     </h3>
                     <hr>
                     <div class="d-flex align-content-center" style="height: 100%, border-radius 100px;">
@@ -55,9 +64,9 @@
                               a una cancha múltiple.
                               <br>
                               <br>
-                            San Gil, Santander
+                            <strong>San Gil, Santander</strong>
                             <br>
-                            2022</p>
+                            <strong>2022</strong></p>
                     </div>
                 </div>
             </div>
@@ -66,7 +75,7 @@
             <div class="proyecto bg-white row justify-content-center" style="overflow: hidden;">
                 <div class="col-md-5 col-sm-12 py-3 border-black border-start border-bottom border-top">
                     <h3 style="color: var(--main-green);" class="text-uppercase text-center">
-                        Cubierta standig seam
+                        <strong>Cubierta standig seam</strong>
                     </h3>
                     <hr>
                     <div class="d-flex align-content-center" style="height: 100%;">
@@ -74,9 +83,9 @@
                              tipo Standing seam sin traslapo para un espacio público de 300 m2 aproximadamente
                              <br>
                              <br>
-                            Piendamó, Cauca
+                            <strong>Piendamó, Cauca</strong>
                             <br>
-                            2021</p>
+                            <strong>2021</strong></p>
                     </div>
                 </div>
                 <div class="col-md-5 col-sm-12">
