@@ -20,7 +20,10 @@
         <img src="../../assets/img/marcas-confiaron/ingelec.jpg" alt="">
       </div>
       <div class="slide">
-        <img src="https://www.pngkit.com/png/detail/306-3063295_fila-logo-logos-de-marcas-deportivas.png" alt="">
+        <img src="../../assets/img/c4.png" alt="">
+      </div>
+      <div class="slide">
+        <img src="../../assets/img/c6.png" alt="">
       </div>
 
       <div class="slide">

@@ -16,6 +16,18 @@
         <div class="slide">
           <img src="../../assets/img/aliados/sika-logo-0-2048x2048.png" alt="">
         </div>
+        <div class="slide">
+          <img src="../../assets/img/wurth-logo-8.png" alt="">
+        </div>
+        <div class="slide">
+          <img src="../../assets/img/aliados/A1.png" alt="">
+        </div>
+        <div class="slide">
+          <img src="../../assets/img/aliados/A2.jpg" alt="">
+        </div>
+        <div class="slide">
+          <img src="../../assets/img/aliados/a3.jpg" alt="">
+        </div>
 
 
   
